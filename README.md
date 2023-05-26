@@ -12,7 +12,7 @@
 
 6- Creamos una nueva aplicación en el botón "New Applications", escogiendo su nombre respectivo. Podemos subir una foto para el bot, escribir una descripción y tags para describir el contenido y funcionalidad del bot (opcional).
 
-7- Seleccionamos la pestaña bot y damos click al botón "Add Bot". Escribimos el mensaje que queremos que se muestre cuando el bot aparezca en el servidor (opcional).
+7- Seleccionamos la pestaña bot y escribimos el mensaje que queremos que se muestre cuando el bot aparezca en el servidor (opcional).
 
 8- Seleccionar el bot como público.
 
